@@ -1,3 +1,4 @@
+[![Download ZIP](https://img.shields.io/github/v/release/FAKE1too/DeepFaceLab-Launcher?label=Download%20Launcher)](https://github.com/FAKE1too/DeepFaceLab-Launcher/releases/latest)
 # DeepFaceLab-Launcher
  professional locked-shell launcher and cleanup utility for DeepFaceLab
 AUTHOR      : @FAKE1too
